@@ -33,3 +33,5 @@ Define win conditions for both the explorers and the betrayer. These conditions 
 ### Hidden Information: 
 Use Aleo's privacy features to keep certain game information hidden until revealed, enhancing the mystery element.
 
+Disclaimer:
+Uses some of the code from [ZK Gaming Toolkit](https://github.com/Kryha/zk-gaming-toolkit)  which Aleo has open sourced. All of these contracts have been modified & updated.
