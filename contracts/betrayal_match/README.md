@@ -1,4 +1,4 @@
-# boloney_match.aleo
+# betrayal_match.aleo
 
 ## Build Guide
 
