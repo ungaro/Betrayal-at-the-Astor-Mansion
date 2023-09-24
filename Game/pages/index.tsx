@@ -37,8 +37,8 @@ export default function Home() {
     const [isGameOver, setIsGameOver] = useState(false);
     const [userName, setUserName] = useState();
     const [move, setMove] = useState();
-    const [wallet, setWallet] = useState();
-    const [publicKey, setPublickey] = useState();
+    const [wallet, setWallet] = useState<LeoWalletAdapter>();
+    const [publicKey, setPublickey] = useState<String>();
 
 
 
@@ -51,24 +51,11 @@ export default function Home() {
 
 
 
-    const { unityProvider, isLoaded, loadingProgression, addEventListener, removeEventListener } = useUnityContext({
-        loaderUrl: "build/senet.loader.js",
-        dataUrl: "build/senet.data",
-        frameworkUrl: "build/senet.framework.js",
-        codeUrl: "build/senet.wasm",
-      });
-    
-      // We'll use a state to store the device pixel ratio.
-      const [devicePixelRatio, setDevicePixelRatio] = useState(
-        dpr
-      );
-    
-
-      const handleGameOver = useCallback((userName, score) => {
+      const handleGameOver = (userName:string, score:number) => {
 console.log("GAME_OVER")      
-}, []);
+};
 
-      const handleSetMove = useCallback(async (position, move) => {
+      const handleSetMove = async (position:number, move:number) => {
         console.log('GAME_EVENT / SETMOVE: ', position,move);
       
 
@@ -76,55 +63,31 @@ console.log("GAME_OVER")
 
 
 
-      }, []);
+      };
 
-      const handleConnectWallet = useCallback(async () => {
+      const handleConnectWallet = async () => {
 
         console.log("HANDLE_CONNECT_WALLET");
         console.log("_______CONNECTING TO WALLET_______");
 
 
-        var wallet = new LeoWalletAdapter({ appName: 'Zenet'});
+        var wallet = new LeoWalletAdapter({ appName: 'BATAM'});
 
 
         wallet.connect(DecryptPermission.AutoDecrypt, WalletAdapterNetwork.Testnet).then(() => {
           let utf8Encode = new TextEncoder();
-          let bytes = utf8Encode.encode("Leo & Zenet are awesome");
+          let bytes = utf8Encode.encode("Leo & BATAM are awesome");
           wallet.signMessage(bytes);
           console.log('Signature: ', bytes);
           console.log('GAME_EVENT / PUBLICKEY: ', wallet.publicKey);
         });
         setPublickey(wallet.publicKey);
         setWallet(wallet);
-      }, []);
+      };
 
 
 
         
-          useEffect(() => {
-            addEventListener("GameOver", handleGameOver);
-            return () => {
-              removeEventListener("GameOver", handleGameOver);
-            };
-          }, [addEventListener, removeEventListener, handleGameOver]);
-          
-      
-     
-          useEffect(() => {
-            addEventListener("SetMove", handleSetMove);
-            return () => {
-              removeEventListener("SetMove", handleSetMove);
-            };
-          }, [addEventListener, removeEventListener, handleSetMove]);
-          
-      
-          useEffect(() => {
-            addEventListener("ConnectWallet", handleConnectWallet);
-            return () => {
-              removeEventListener("ConnectWallet", handleConnectWallet);
-            };
-          }, [addEventListener, removeEventListener, handleConnectWallet]);
-          
 
         function game_start(){
             console.log("_______START WALLET_______");
@@ -143,33 +106,34 @@ console.log("GAME_OVER")
 
 
 
-      const handleChangePixelRatio = useCallback(
-        function () {
-          // A function which will update the device pixel ratio of the Unity
-          // Application to match the device pixel ratio of the browser.
-          const updateDevicePixelRatio = function () {
-            setDevicePixelRatio(dpr);
-          };
-          // A media matcher which watches for changes in the device pixel ratio.
-          const mediaMatcher = matchMedia(
-            `screen and (resolution: ${devicePixelRatio}dppx)`
-          );
-          // Adding an event listener to the media matcher which will update the
-          // device pixel ratio of the Unity Application when the device pixel
-          // ratio changes.
-          mediaMatcher.addEventListener("change", updateDevicePixelRatio);
-          return function () {
-            // Removing the event listener when the component unmounts.
-            mediaMatcher.removeEventListener("change", updateDevicePixelRatio);
-          };
-        },
-        [devicePixelRatio]
-      );
+
 
   return (
 <>
-       <div>HELLO WORLD</div>
+
+<div className="bg-black flex flex-col h-screen justify-center items-center">
+<div className="w-1/3 flex align-right justify-end ">
+<div className="bg-red-800 p-2 w-32 rounded-lg align-right justify-end">
+
+  
+ <button onClick={handleConnectWallet}> Connect Wallet</button></div>
+  
+  
+  </div>
+
+    <div className="bg-black p-2 w-full flex justify-center">
+    <img src="/home.png"  className='mx-auto  rounded-2xl'/>
+    </div>
+
+  </div>
+
+
 </>
   )
 }
 
+/*
+<div className="w-full h-full">
+<div></div>
+</div>
+*/

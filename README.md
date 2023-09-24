@@ -14,12 +14,38 @@ Now, let's delve into the gameplay aspect. Betrayal at House on the Hill is know
 ### Exploration: 
 Players start in the lavish Astor Mansion, each with unique characters or roles. They explore the mansion, uncovering rooms, events, and items. Use Aleo's privacy features to ensure that some discoveries are kept hidden from others.
 
-### [Events and Items:](./_docs/event_cards.md).
+### Events and Items:
 Create a deck of event cards inspired by New York's history and supernatural tales. Similarly, have a deck of item cards with items related to the city's past.
 
-### [Haunting Element:](./_docs/haunting_element.md).
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/A_portrait_of_a_sinister_figure_hangs_on_the_wall__00001_01.png">  |  <img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_come_across_a_garden_filled_with_ancient_statu_00006_00.png">|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_stumble_upon_a_collection_of_cursed_artifacts__00042_02.png">|
+|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_stumble_upon_an_old_theater_stage_An_otherworl_00047_03.png">  |  <img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_discover_a_room_covered_in_eerie_ectoplasmic_r_00014_12.png">|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_stumble_upon_a_room_set_up_for_a_séance_Candl_00044_00.png">|
+|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_enter_a_room_with_a_swirling_otherworldly_vort_00032_16.png">  |  <img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_enter_a_room_with_a_swirling_otherworldly_vort_00032_11.png">|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/events/images/You_encounter_the_ghostly_presence_of_a_famous_pla_00026_14.png">|
+
+
+
+[All Event Images](https://betrayal-at-astor-mansion.s3.amazonaws.com/events/index.html) 
+
+[Events and Items Descriptions](./_docs/event_cards.md).
+
+### Haunting Element:
 
 Just like in the original game, as players explore, certain events could trigger hauntings. These hauntings could be based on actual New York legends or myths, adding a unique twist to the game.
+
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/A_chilling_echo_reverberates_through_the_mansion_r_00000_04.png">  |  <img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/Ghostly_animals_once_pets_of_the_mansions_resident_00005_16.png">|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/Players_encounter_a_séance_in_progress_led_by_gho_00006_03.png">|
+|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/A_chilling_echo_reverberates_through_the_mansion_r_00000_13.png">  |  <img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/Players_encounter_a_séance_in_progress_led_by_gho_00006_00.png">|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_02.png">|
+|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_16.png">  |  <img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_16.png">|<img width="1604" alt="" src="https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/images/Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_14.png">|
+
+
+
+[All Haunting Images](https://betrayal-at-astor-mansion.s3.amazonaws.com/hauntings/index.html) 
+
+[Haunting Element Descriptions](./_docs/haunting_element.md).
 
 
 ### [Betrayal Mechanic:](./_docs/betrayal_mechanic.md).
@@ -35,3 +61,5 @@ Use Aleo's privacy features to keep certain game information hidden until reveal
 
 Disclaimer:
 Uses some of the code from [ZK Gaming Toolkit](https://github.com/Kryha/zk-gaming-toolkit)  which Aleo has open sourced. All of these contracts have been modified & updated.
+
+
