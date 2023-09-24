@@ -11,10 +11,27 @@ Now, let's delve into the gameplay aspect. Betrayal at House on the Hill is know
 ## Here are some ideas for gameplay:
 
 ### Exploration: 
-Players start in the lavish Astor Mansion, each with unique characters or roles. They explore the mansion, uncovering rooms, events, and items. Use Aleo's privacy features to ensure that some discoveries are kept hidden from others.
+Players start in the lavish Astor Mansion, each with unique characters or roles. 
+Each player has different levels of POWER, SANITY & SPEED
+
+-- Players roll dice to choose their characters.
+-- All characters enter Astor Mansion through a big hallway. 
+-- Players roll dice to move.
+-- There are 50 rooms connected to the hallway.
+-- Players can choose which room to enter while they are in the hallway.
+-- Each room has an event. There are 50 unique events in the mansion that affects players POWER, SANITY and SPEED.
+-- Players roll dice in the room the counter the event.
+-- During the game, an event will trigger a player to become traitor.
+-- Players need to uncover the traitor, traitor should kill all other players to win.
+-- Traiter can trigger hauntings.
+-- Hauntings eventually lead to either uncovering the traitor or traitor killing everyone else.
+
+All game state is on-chain, PlayerInfo (Power, Speed, Sanity) and traitor are private records.
 
 ### Events and Items:
-Create a deck of event cards inspired by New York's history and supernatural tales. Similarly, have a deck of item cards with items related to the city's past.
+There are 50 events in the game. For each of those 50 events, a set of 20 images have been created with Midjourney.
+
+Deck of event cards are inspired by New York's history and supernatural tales. Similarly, have a deck of item cards with items related to the city's past.
 
 
 | | | |
@@ -31,7 +48,9 @@ Create a deck of event cards inspired by New York's history and supernatural tal
 
 ### Haunting Element:
 
-Just like in the original game, as players explore, certain events could trigger hauntings. These hauntings could be based on actual New York legends or myths, adding a unique twist to the game.
+There are 10 hauntings in the game. For each of those 10 hauntings, a set of 20 images have been created with Midjourney.
+
+As players explore, certain events could trigger hauntings. These hauntings could be based on actual New York legends or myths, adding a unique twist to the game.
 
 
 | | | |
@@ -53,10 +72,11 @@ As players progress, one player may eventually trigger the betrayal, turning aga
 
 ### [Win Conditions:](./_docs/win_conditions.md).
 
-Define win conditions for both the explorers and the betrayer. These conditions could be related to solving mysteries, escaping the mansion, or achieving the betrayer's sinister goals.
+Hauntings eventually lead to either uncovering the traitor or traitor killing everyone else.
+
 
 ### Hidden Information: 
-Use Aleo's privacy features to keep certain game information hidden until revealed, enhancing the mystery element.
+Aleo's privacy features are used to keep certain game information hidden until revealed, enhancing the mystery element.
 
 Disclaimer:
 Uses some of the code from [ZK Gaming Toolkit](https://github.com/Kryha/zk-gaming-toolkit)  which Aleo has open sourced. All of these contracts have been modified & updated.
