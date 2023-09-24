@@ -2,8 +2,7 @@
 
 
 ![Poster for the game](./_assets/astor_mansion.png)
-
-
+### [EXAMPLE GAMEPLAY](http://ec2-3-138-91-192.us-east-2.compute.amazonaws.com:3000/)
 
 The Astor Mansion was a historic mansion in New York City, known for its opulence and intriguing history. It provides a sense of grandeur and mystery while not immediately revealing its New York connection.
 
