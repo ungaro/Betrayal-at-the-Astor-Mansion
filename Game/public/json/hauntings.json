@@ -1,0 +1,1033 @@
+{
+  "id": "hauntings",
+  "created_at": "2023-09-24T02:16:42.5276305Z",
+  "updated_at": "2023-09-24T02:37:13.679635Z",
+  "status": "finished",
+  "percentage": 100,
+  "images": [
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327109707878511/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_2c4ac595-ffd1-493d-a49a-92cc8ca6402c.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327294752165962/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_280598e2-5fa5-4353-8a10-d84c8ebee09e.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327311806201957/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_54f42149-e6b7-42a7-b800-3a09dcf38e96.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327330043039824/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_3165b5c6-5049-4799-badb-137bbb889977.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327368781643816/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_fb456af8-7ec7-4c54-bf92-fd249224f6f8.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327407906107462/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_2a280b9a-0c50-48d2-9d04-a542567794ca.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327605256491059/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_88e518f1-16b7-46a6-8309-d8e1094d9ae1.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327625447882762/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_3c4b4c74-13f0-4b61-bd75-8e6e5eabf1d2.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327644829753345/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_68e4b4a5-b4ca-416c-84d7-f0471b3b7f49.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327663444086824/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_3bf7189c-df64-48b3-bf04-3e427f4472ee.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327690296000693/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_a6c6d614-77be-4db9-9505-6855a3634766.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327902443909230/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_8b1768fd-030c-4e2a-8f79-6bf32559ed41.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327922131959908/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_dde837b4-991b-4c7f-b69e-eb38a66d1543.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327940641435708/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_b649325a-e50d-4a46-a732-340fcda3e3c7.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327964112769096/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_7fea90fd-980b-4846-bd3d-fb8f8118f85e.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327994009755738/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_93fa00e7-af40-40b5-842c-443701b0337d.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328182539526144/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_989f6f8f-905d-4a18-9533-adb43d24e99b.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328200445014098/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_71e295ce-a51c-4a60-bdab-16cdc7ab58a8.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328218778304564/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_716f7d09-16d0-4036-9f41-e487fa4f6202.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328237006757948/alpguneysel_A_chilling_echo_reverberates_through_the_mansion_re_dde2fac1-9a46-41fc-b1b9-927d06fe8c20.png",
+      "prompt": "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+      "file": "A_chilling_echo_reverberates_through_the_mansion_r_00000_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327143123886120/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_a92084b5-a101-46a9-92d2-5d5ecd5056c5.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327345557770240/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_103fbbbf-9f78-464b-ada3-04ae8cc5df9f.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327382287294664/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_74ef13a3-0450-4e5e-80fc-c678323ad68a.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327421634052227/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_46ae9db0-9125-44bf-ad85-a71e9f9b4fff.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327458577481759/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_64e5e09a-a3e2-498c-9139-3b0dd9ca7898.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327486230528011/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_ff468571-b531-4ced-afac-b560e4b84bf1.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327675230081084/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_73395ccd-5d81-49d1-90d1-4e20ecc22123.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327706116935710/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_6d74e7d0-6c44-4ed1-8c40-18cbc65ba2ac.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327743341367326/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_e83d1ac6-f118-4f33-9603-1e58cdd1fc3e.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327768536555630/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_a0b28d1f-96f1-4495-af1b-76db4022bfc4.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327791286464552/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_90f09add-9eab-4247-bd79-0d52bada9cf0.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327980638306324/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_3ff68dc6-9d6d-468d-9a29-cf3f2c7fc39a.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328006143885372/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_32a9567c-b612-4bb3-9400-6830b75f6437.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328044261716009/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_a79856f1-37e2-44b0-b3b5-e4f8fe23e0ea.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328066298597459/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_2d439dfb-ff7d-4570-b65d-20ae345054e1.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328092248743999/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_e41fef79-2100-4139-91a2-bae4546a2f8c.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328280598163546/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_9a87e97f-a7d7-4877-8e62-2b2a1645a342.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328296905613413/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_40534391-4908-4e5f-a6a4-9257113236e5.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328317092790343/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_4e66dd0b-e3e5-4a47-9d9e-041561741f1f.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328341658837043/alpguneysel_A_cursed_music_box_begins_playing_an_eerie_melody_o_80404b21-6e8a-499a-816d-dcf051f14a30.png",
+      "prompt": "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+      "file": "A_cursed_music_box_begins_playing_an_eerie_melody__00001_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327152355553330/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_ca4d10c7-b880-420d-9e0d-819d5c88b9b9.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327359281537085/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_15ccc79a-23df-4d10-b4c5-0cb76730fc63.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327395595821176/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_46147aa2-0218-4517-9c37-d8dd80340b81.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327432400842793/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_a69378d7-9f36-4b35-bbd2-1b0291e804a2.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327474020925591/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_44df269c-ab4a-4052-861e-e73e9c28b87c.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327503070662696/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_f1d32788-1a19-4bd0-bad9-127c10792c05.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327720578879558/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_32e99b2b-a36a-4716-b040-eae3a17c69fe.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327756863815700/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_12e302d0-bbc7-4478-a345-cf7a189abe02.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327778489630760/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_d89806d7-4b75-4485-aaff-f17776640d34.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327804070703245/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_d9eacbbd-16c1-4656-b2a0-ffd31862f852.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155327830738087986/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_2ff9b717-8a78-4051-9b6b-750934e10947.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328031309697174/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_3340254e-7e5e-44d2-8d45-347a4bfda9e6.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328055284351066/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_ddef00e1-5bba-4734-8ca9-9581abeb411b.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328077061173340/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_9b41b8ed-28f2-46a8-83b2-2f0d68c3f3a8.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328103002943498/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_9d8cc6ce-6d13-4186-b804-4fe2317e1251.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328129208963112/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_adcdd927-1e91-4f7a-a870-0654bdac57ed.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328329747021904/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_4fbcbaac-c257-43b0-8182-0a8eaf96e495.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328352291401748/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_ba615bb8-decf-4b67-bfe3-81bc7208b346.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328380531642378/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_53bbb421-7735-4f41-a322-2808c3d03249.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328398751703150/alpguneysel_A_mirror_in_a_dimly_lit_room_reflects_a_distorted_s_98b39e73-3d05-47d2-add9-8f0025019ecd.png",
+      "prompt": "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+      "file": "A_mirror_in_a_dimly_lit_room_reflects_a_distorted__00002_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328429923778690/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_4407f1a5-71c7-4800-8987-d8bebd4035a6.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328611260305448/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_bee85fec-4dff-4ae6-af17-705a27654f71.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328631762071693/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_7e73d772-4326-45e6-b5d8-ec50de2f8fbd.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328649822744646/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_a383ab34-736d-41c5-a14b-4a251eb66eda.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328667459801128/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_0add2fa7-3418-47eb-a300-cae720e27422.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328684484472922/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_67c8bf24-271c-474e-8416-c415fa28d97f.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328875727958097/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_beb4191a-3b8a-47f7-b444-02f1b431fc85.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328900533063680/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_ac8546c2-c6a8-4f81-bf7e-e6acf4acfef7.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328932489474169/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_0237f0a3-8ecd-4c3c-81b4-6e719c404199.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328950545944676/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_9392d6cb-9264-4f18-99ea-bdd10137ef60.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328967956516954/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_6e7a5e91-4914-4629-9cba-dcb7db7ce274.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329153231507496/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_f43fae4a-c143-4b95-8a13-07be0d4047c0.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329180477693963/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_b4338302-ad6a-4968-858b-87b62b527d32.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329201004625940/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_66bd5a5e-9c2d-4cd9-9fdb-f1a2704f7b37.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329227885916240/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_7725ad92-0827-4ec6-b64d-0e567d516949.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329248727404616/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_01e24799-bf29-4d79-9b76-e7a782d0bbca.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329443611562105/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_b7c67124-6b6c-43ab-8eaf-a23ec7b10d9b.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329474104143872/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_e459ad60-cb38-4a46-ba33-743a4601fc91.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329498783428678/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_4e640b5f-078f-4c91-8ad1-51e23bfb020f.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329524460953651/alpguneysel_A_portrait_on_the_wall_mysteriously_disappears_leav_be66db36-1f26-4a89-a2b3-834b90e07dbf.png",
+      "prompt": "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+      "file": "A_portrait_on_the_wall_mysteriously_disappears_lea_00003_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328536316497990/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_59ddcb68-6542-49e2-8bdf-f3e7cfef7d4c.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328717392977980/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_8337e6dd-c821-4cae-b39a-6294efefa704.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328736481263808/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_b54e9584-f8d9-4141-9c31-9eac3c628f2c.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328755326259262/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_5fa4f02a-3637-4bfb-b706-465dd3c71346.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328781104447528/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_8fe939a9-336c-4a82-ad00-8434b1497e45.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328809831243806/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_a901b921-cf37-49e1-88b5-09ea57883d6a.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329003939434576/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_5be6ef98-0b9d-472c-86ed-eb3a1e47b183.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329021631021067/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_f0db782d-4c56-4a56-be71-82c96d8e7821.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329039637151744/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_32b5ee88-f4a5-4498-8ca5-9c235bf38178.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329057546842264/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_442f2c01-1a1d-4d21-8b0e-340ac899fcf2.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329076446376066/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_b5b78714-d4b5-4a74-96be-b3ecb6069daa.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329279157075988/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_cfef7671-1e9c-46b2-84a6-155ec26763b2.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329304192876684/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_13d88cf9-b1e4-4002-aba9-1e6d3ad8a946.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329324724015174/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_e99197ca-9062-4826-8cba-6cb57a07d944.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329342801461248/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_5ed62c6b-17b2-40b8-9829-e28f4380116c.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329364184027216/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_6b5ed52f-85c2-4e79-9118-3433b44ca1e2.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329565669982228/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_f5730400-b8f2-475c-a12f-c1b0882b3f8b.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329582858260530/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_5af6ec7a-9041-4ee3-bda3-46b1503ffe23.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329599853568172/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_93ebf262-5e99-47f0-b3db-39be16291c1e.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329617721315378/alpguneysel_Ectoplasmic_residue_appears_forming_cryptic_symbols_bb7db81a-9dce-4607-8ba7-8d9ebd7302a8.png",
+      "prompt": "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+      "file": "Ectoplasmic_residue_appears_forming_cryptic_symbol_00004_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328579190673508/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_4d55a42d-3110-458f-9533-ed8a19b149a9.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328767439417414/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_e43b150c-d5de-41cb-b8d9-01f8801922d3.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328798343037039/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_e16874d9-d376-4d75-9dc4-ec74cbb9b97d.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328822720340089/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_b9a5a69a-6db4-4eb5-8d20-764d00e180c0.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328856039895090/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_1ca68260-c417-4cc6-87f8-31d0c4804042.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155328884171079740/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_1ec3d3a5-d16b-4cf0-9551-4a309ffdca72.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329089205436506/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_969aa460-16dd-41ce-a5bc-eafda40851e5.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329117860925581/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_7c7ca1bc-a943-4280-8107-c9d4fe4e790c.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329138798895134/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_d6423ce5-e43a-4bd5-a556-069f949eeb26.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329163595632701/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_07e8fe55-e9b5-42d6-8f86-dd27c64ca8c7.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329188753051768/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_fe82dc0a-82d4-4518-bc99-77d925a931cd.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329384572538932/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_ac28af55-ebaf-417f-8985-06d7b6362aa9.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329410673688596/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_8e66dcd7-7cd2-472a-93eb-fc471fbf3bda.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329428398800946/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_d4cd1480-f59e-4b47-98a2-dd2dd6d13b3e.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329457419198464/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_3d3ba051-2791-46c4-bd39-71e638808495.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329485781086209/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_aaf84548-e288-46a4-97cf-24241fd6dc2a.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329697501155419/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_ae9eaea8-1955-4172-8d7c-72beadfcc4e4.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329732984963112/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_3bbd6669-fd82-4124-a3c3-5deab103f09b.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329754203959357/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_20ef3b2a-68fb-4e5a-be0a-7714d25e60f0.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329770729517136/alpguneysel_Ghostly_animals_once_pets_of_the_mansions_residents_d0818eb3-bae3-41da-9d2e-ae55e77cedc2.png",
+      "prompt": "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+      "file": "Ghostly_animals_once_pets_of_the_mansions_resident_00005_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329719491907685/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_d4d0dfab-f2fc-4c6c-822d-6adfc25038eb.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329901382078484/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_98ed493a-4c61-4924-ad0a-524523cf2275.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329926036205619/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_ac2c01fc-72d2-4380-b8eb-fbbf51a2402f.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329942985388032/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_a263843f-5506-4310-9ff7-3c822d6fc1a2.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329967660474489/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_7e558820-09c6-4243-b4ee-6769bba74aa7.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330009616097320/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_5d3bf410-f5f7-4a1b-9d3c-3c85060e2e5f.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330200951853086/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_09eac8b6-1556-4f10-a610-704af4ed0630.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330224146354317/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_5d987287-4046-4f94-a1fa-cc2866681a26.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330254609584138/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_0d0ee48d-7c6b-475e-980f-8dd78778b307.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330290865156198/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_5d6ee2ba-bf5b-4524-9cb5-d830b0dcd2d4.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330317738053653/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_b893dc9f-793f-42bf-adbe-4f6d99af13c3.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330505676423188/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_b0a37e09-4dfd-4afe-8bb2-6d0b820f58b2.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330532327043103/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_d06820be-c0fd-44d8-9b72-f60961b962da.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330556754665553/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_8b992c0c-3525-4620-b5fc-9af7878d17ab.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330580179857478/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_1e7d4f43-fdf8-4858-8245-b9541491aa1e.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330606461366354/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_4986aae4-f3f5-4e42-be0b-3b801e4030ab.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330816474357820/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_d0141762-4974-4a49-81a5-506eabda2b7a.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330834795073606/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_c42c7982-42ec-4089-8c15-696b8791d245.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330864218116209/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_83841610-70d6-4aa0-a834-2e5d9c930ca0.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330890738704394/alpguneysel_Players_encounter_a_seance_in_progress_led_by_ghost_dbf30c31-c173-4c3e-ada8-29c347eaf5f6.png",
+      "prompt": "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+      "file": "Players_encounter_a_séance_in_progress_led_by_gho_00006_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329800899137556/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_df888e2b-eae0-4830-8787-7682052cbedb.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329993761620028/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_215c4376-de43-4301-81ac-f0c530a65ff9.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330021343379546/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_73331b01-fd4c-4311-af3d-e24a848338a3.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330050888052806/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_b8e60e34-33bb-439a-a1bd-80a576b19dbb.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330067312951407/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_ac5df3c4-3c9f-4f51-912f-f6332842f76a.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330087701467186/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_d3f46741-44c1-424b-9bd2-a1e7ad0f2d35.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330277200105612/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_c5e00be2-4988-4a3e-8997-0657de1c0819.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330312490995802/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_4e9c36a5-11d1-4fe3-8bcd-f68c8d1d6312.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330334041321583/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_d1683f2c-a672-40c1-9fab-12ab74b642a8.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330357705588856/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_5d3cf91a-fb4d-4426-a4a3-ad096d73f024.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330375053213777/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_890a2d70-5e84-4c7e-a9cc-729d4422e7ce.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330569710862336/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_aa996dbd-8c23-4d63-9da8-1a27553f9de2.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330593274466324/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_3b70f08a-dd9a-4eef-a89f-e38f325ef6dc.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330620340310087/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_1cc0d7c5-7e9f-4fc6-abba-8de6b6066ef4.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330648677044374/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_850648ff-8fdc-41aa-9674-7a442b77f14f.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330667140354138/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_0fc1cdb5-1ef5-4289-9c1b-c1bc135570bd.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330848439148554/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_245f3fcc-f187-4762-8203-6021cc1fe05d.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330875513389107/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_8b76c7d1-aa7e-4976-a486-6fe6070973e5.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330904735088691/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_5306e1f9-bda8-4f0c-8813-9e9c4a84e812.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330933390585916/alpguneysel_Players_notice_a_shadowy_figure_following_them_disa_6d7532a3-b38d-47f1-b70f-b800314602f2.png",
+      "prompt": "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+      "file": "Players_notice_a_shadowy_figure_following_them_dis_00007_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155329956130340904/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_b70bf2dc-0bb3-4caf-9b21-54faff47376f.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330145331204197/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_2f9798dd-9d0d-4c4b-ba2d-9ca4d59136e4.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330163140206704/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_37aaec1e-4abc-473b-8d19-7fcdcda9108a.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330185680404582/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_64ffc730-7d59-40b6-913f-831f4c33d684.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330211383095356/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_76c687be-c476-4f93-b49b-2208a4a2e7f1.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330240420261919/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_da83060f-18e6-44fd-94f9-9a34e55f0d92.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330430464176148/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_18ec2a9b-533a-46b0-ba83-c9dcd853e218.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330448336101527/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_e4f2c8c8-7c0e-41f9-9915-2ac22608800b.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330466627469352/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_838ff11e-2043-4234-94e4-0ee3101aaf61.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330489356398642/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_7bcd8402-3aae-4847-9d75-11d7b82a1ad9.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330518024474624/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_5ceeecd3-df8d-4dea-ae0b-35438b9e3245.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330710006153267/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_c447b9a4-bfa9-4152-8fbe-d934aa46e3a4.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330728276525156/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_7e99b50f-dfba-4d8b-ba87-38620dbf163e.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330744944709663/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_22ea950c-d1f7-44ec-8b96-9d053fc35fe4.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330761919037460/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_a96e9541-54c2-4120-a4af-3e47db353167.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330778998259773/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_90befb03-6aab-42d3-85f7-6223c78170a9.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330964084510726/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_fe9287eb-3b98-4d15-8574-f5a41972895f.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330981948039188/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_ff86662c-dd83-4a79-b76c-f8285c01be52.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155330999652200610/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_7b8fbf99-2c13-44ef-8392-3e3f8941c9bd.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331017176010762/alpguneysel_Suddenly_the_mansions_grand_hall_fills_with_ghostly_0f868905-8656-49a5-8aa2-cc447468e666.png",
+      "prompt": "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+      "file": "Suddenly_the_mansions_grand_hall_fills_with_ghostl_00008_19.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331080686157884/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_129d2942-8886-45e4-ac32-f14ecd8dfeee.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_00.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331258923094067/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_d2f54b37-a89c-43b2-99b3-42f5f1b2506c.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_04.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331278128807966/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_1e4707d3-70e3-4407-aa46-b33655446353.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_05.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331295069622362/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_70b83083-f444-4d23-b65f-9097f6f460cc.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_06.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331313155452978/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_0eb98b38-107b-486f-a140-84e2f93ff30f.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_07.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331330360475728/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_a333fb19-c0a1-4caf-bd08-7ac3d8635c11.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_01.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331508639371354/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_121a54c5-f0ac-4fb1-b28f-d1ad92033fe4.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_08.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331526603583488/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_32b5c583-c83c-45b8-8277-2750fa93641c.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_09.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331546652360815/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_7cd6164f-7000-4f69-a9e9-70f02d4491bc.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_10.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331563505061970/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_fc602502-81dc-40e8-8bd7-734444de7488.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_11.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331581024677968/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_d5c6a5f2-45d6-4c2e-afba-43f7e74751b5.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_02.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331765787971664/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_b2f366ec-24a8-47a5-aa6b-9a412403b2f2.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_12.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331784561659996/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_60ecadc8-0431-4e5e-933f-70241f5e3047.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_13.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331802697838664/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_8a2833fb-7027-4987-9b58-42ac96a7617c.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_14.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331820909510707/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_0a515eb5-a74a-4ab4-afae-aadf78ddd6c9.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_15.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155331838374576272/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_55aaeba5-31dd-46b7-9611-fe0027204c08.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_03.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155332022689091675/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_49e381b3-a0cf-49e8-b060-c289b8010f02.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_16.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155332040426803260/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_a24640d3-dffa-4357-bcb6-ad0d43e266c6.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_17.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155332058168692876/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_d25fe1b7-8308-44ad-ba20-b2b49811edb1.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_18.png"
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1053044829019451402/1155332076774641805/alpguneysel_The_sound_of_a_childs_laughter_echoes_through_the_h_de122809-7aa1-4327-a4aa-50a106845317.png",
+      "prompt": "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2",
+      "file": "The_sound_of_a_childs_laughter_echoes_through_the__00009_19.png"
+    }
+  ],
+  "prompts": [
+    "A chilling echo reverberates through the mansion, revealing whispered secrets from its past. --ar 3:2",
+    "A cursed music box begins playing an eerie melody on its own, affecting the sanity of those who hear it. --ar 3:2",
+    "A mirror in a dimly lit room reflects a distorted, sinister version of reality. --ar 3:2",
+    "A portrait on the wall mysteriously disappears, leaving an empty frame. Moments later, it reappears with subtle changes, revealing hidden secrets. --ar 3:2",
+    "Ectoplasmic residue appears, forming cryptic symbols on the floor. It seems to respond to players' actions. --ar 3:2",
+    "Ghostly animals, once pets of the mansion's residents, roam the corridors. They appear friendly but hold a mysterious secret. --ar 3:2",
+    "Players encounter a séance in progress, led by ghostly mediums trying to contact the mansion's former residents. --ar 3:2",
+    "Players notice a shadowy figure following them, disappearing when they turn to confront it. --ar 3:2",
+    "Suddenly, the mansion's grand hall fills with ghostly partygoers from a bygone era. They invite you to join them in their eerie celebration. --ar 3:2",
+    "The sound of a child's laughter echoes through the halls. Soon after, a spectral child appears, beckoning players to follow. --ar 3:2"
+  ],
+  "finished": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}
