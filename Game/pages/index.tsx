@@ -37,12 +37,17 @@ export default function Home() {
     const [isGameOver, setIsGameOver] = useState(false);
     const [userName, setUserName] = useState();
     const [move, setMove] = useState();
-    const [wallet, setWallet] = useState<LeoWalletAdapter>();
+    const [wallet, setWallet] = useState();
     const [publicKey, setPublickey] = useState<String>();
 
-
-
-
+    const wallets = useMemo(
+      () => [
+        new LeoWalletAdapter({
+          appName: "BATAM",
+        }),
+      ],
+      []
+    );
 
     const dpr = useDevicePixelRatio()
     console.log("DPR___",dpr);
@@ -72,8 +77,7 @@ console.log("GAME_OVER")
 
 
         var wallet = new LeoWalletAdapter({ appName: 'BATAM'});
-
-
+   
         wallet.connect(DecryptPermission.AutoDecrypt, WalletAdapterNetwork.Testnet).then(() => {
           let utf8Encode = new TextEncoder();
           let bytes = utf8Encode.encode("Leo & BATAM are awesome");
@@ -110,6 +114,13 @@ console.log("GAME_OVER")
 
   return (
 <>
+<WalletProvider
+      wallets={wallets}
+      decryptPermission={DecryptPermission.UponRequest}
+      network={WalletAdapterNetwork.Localnet}
+      autoConnect
+    >
+      <WalletModalProvider>
 
 <div className="bg-black flex flex-col h-screen justify-center items-center">
 <div className="w-1/3 flex align-right justify-end ">
@@ -126,7 +137,8 @@ console.log("GAME_OVER")
     </div>
 
   </div>
-
+      </WalletModalProvider>
+    </WalletProvider>
 
 </>
   )
