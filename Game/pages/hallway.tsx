@@ -20,6 +20,7 @@ import {
 } from "@demox-labs/aleo-wallet-adapter-base";
 
 
+import { useRouter } from 'next/navigation'
 
 
 require("@demox-labs/aleo-wallet-adapter-reactui/styles.css");
@@ -27,13 +28,14 @@ require("@demox-labs/aleo-wallet-adapter-reactui/styles.css");
 
 const inter = Inter({ subsets: ['latin'] })
 
-export default function Home() {
+export default function Hallway() {
 
 
   const { requestTransaction } = useWallet();
 
 
-    
+  const router = useRouter()
+
     const [isGameOver, setIsGameOver] = useState(false);
     const [userName, setUserName] = useState();
     const [move, setMove] = useState();
@@ -54,7 +56,16 @@ export default function Home() {
 
 
 
+    const rollDice = () => {
+console.log("ROLL_DICE");      
+      
+          };
 
+    const enterRoom = () => {
+router.push('/room')
+
+
+    };
 
       const handleGameOver = (userName:string, score:number) => {
 console.log("GAME_OVER")      
@@ -123,6 +134,13 @@ console.log("GAME_OVER")
       <WalletModalProvider>
 
 <div className="bg-black flex flex-col h-screen justify-center items-center">
+
+
+
+<div className="bg-black p-2 w-1/3  flex flex-row justify-center text-white border-red">
+<div className="w-64"><button onClick={enterRoom}>Sanity: 10</button></div><div className="w-64"><button  onClick={rollDice}>Power: 10</button></div><div className="w-64"><button  onClick={enterRoom}>Speed: 10</button></div>
+</div>
+
 <div className="w-1/3 flex align-right justify-end ">
 <div className="bg-red-800 p-2 w-32 rounded-lg align-right justify-end">
 
@@ -133,8 +151,17 @@ console.log("GAME_OVER")
   </div>
 
     <div className="bg-black p-2 w-full flex justify-center">
-   <a href="/hallway"><img src="/home.png"  className='mx-auto  rounded-2xl'/></a> 
+    <img src="/img/hallway.png"  className='mx-auto  rounded-2xl'/>
     </div>
+    <div className="bg-black p-2 w-full flex justify-center text-white">
+
+    Roll the dice to move through hallways. In rooms, draw event cards for mysteries and challenges. Work together, but beware of hidden betrayals
+</div>
+
+<div className="bg-black p-2 w-1/3  flex flex-row justify-center text-white border-red">
+<div className="w-64"><button onClick={enterRoom}>Enter Left Room</button></div><div className="w-64"><button  onClick={rollDice}>Roll Dice</button></div><div className="w-64"><button  onClick={enterRoom}>Enter Right Room</button></div>
+</div>
+
 
   </div>
       </WalletModalProvider>

@@ -93,6 +93,12 @@ console.log("GAME_OVER")
 
         
 
+    const rollDice = () => {
+      console.log("ROLL_DICE");      
+            
+                };
+      
+
         function game_start(){
             console.log("_______START WALLET_______");
         }
@@ -123,6 +129,13 @@ console.log("GAME_OVER")
       <WalletModalProvider>
 
 <div className="bg-black flex flex-col h-screen justify-center items-center">
+
+<div className="bg-black p-2 w-1/3  flex flex-row justify-center text-white border-red">
+<div className="w-64"><button>Sanity: 10</button></div><div className="w-64"><button  >Power: 10</button></div><div className="w-64"><button >Speed: 10</button></div>
+</div>
+
+
+
 <div className="w-1/3 flex align-right justify-end ">
 <div className="bg-red-800 p-2 w-32 rounded-lg align-right justify-end">
 
@@ -133,8 +146,16 @@ console.log("GAME_OVER")
   </div>
 
     <div className="bg-black p-2 w-full flex justify-center">
-   <a href="/hallway"><img src="/home.png"  className='mx-auto  rounded-2xl'/></a> 
+    <img src="/img/room.png"  className='mx-auto  rounded-2xl'/>
     </div>
+    <div className="bg-black p-2 w-full flex justify-center text-white">
+
+    Roll a dice. On an even roll, you harness the residue's energy, gaining an advantage. On an odd roll, it becomes hostile, and you lose Sanity.
+</div>
+<div className="bg-black p-2 w-1/3  flex flex-row justify-center text-white border-red">
+<div className="w-64"><button  onClick={rollDice}>Roll Dice</button></div>
+</div>
+
 
   </div>
       </WalletModalProvider>
