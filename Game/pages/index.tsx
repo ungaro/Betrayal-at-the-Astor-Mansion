@@ -71,7 +71,7 @@ console.log("GAME_OVER")
       };
 
       const handleConnectWallet = async () => {
-
+/*
         console.log("HANDLE_CONNECT_WALLET");
         console.log("_______CONNECTING TO WALLET_______");
 
@@ -87,6 +87,7 @@ console.log("GAME_OVER")
         });
         setPublickey(wallet.publicKey);
         setWallet(wallet);
+        */
       };
 
 
@@ -114,13 +115,7 @@ console.log("GAME_OVER")
 
   return (
 <>
-<WalletProvider
-      wallets={wallets}
-      decryptPermission={DecryptPermission.UponRequest}
-      network={WalletAdapterNetwork.Localnet}
-      autoConnect
-    >
-      <WalletModalProvider>
+
 
 <div className="bg-black flex flex-col h-screen justify-center items-center">
 <div className="w-1/3 flex align-right justify-end ">
@@ -137,14 +132,23 @@ console.log("GAME_OVER")
     </div>
 
   </div>
-      </WalletModalProvider>
-    </WalletProvider>
 
 </>
   )
 }
 
 /*
+
+  <WalletProvider
+      wallets={wallets}
+      decryptPermission={DecryptPermission.UponRequest}
+      network={WalletAdapterNetwork.Localnet}
+      autoConnect
+    >
+      <WalletModalProvider>
+      </WalletModalProvider>
+    </WalletProvider>
+
 <div className="w-full h-full">
 <div></div>
 </div>

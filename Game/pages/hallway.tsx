@@ -86,7 +86,7 @@ console.log("GAME_OVER")
         console.log("HANDLE_CONNECT_WALLET");
         console.log("_______CONNECTING TO WALLET_______");
 
-
+/*
         var wallet = new LeoWalletAdapter({ appName: 'BATAM'});
    
         wallet.connect(DecryptPermission.AutoDecrypt, WalletAdapterNetwork.Testnet).then(() => {
@@ -97,7 +97,8 @@ console.log("GAME_OVER")
           console.log('GAME_EVENT / PUBLICKEY: ', wallet.publicKey);
         });
         setPublickey(wallet.publicKey);
-        setWallet(wallet);
+        //setWallet(wallet);
+        */
       };
 
 
@@ -125,13 +126,7 @@ console.log("GAME_OVER")
 
   return (
 <>
-<WalletProvider
-      wallets={wallets}
-      decryptPermission={DecryptPermission.UponRequest}
-      network={WalletAdapterNetwork.Localnet}
-      autoConnect
-    >
-      <WalletModalProvider>
+
 
 <div className="bg-black flex flex-col h-screen justify-center items-center">
 
@@ -164,14 +159,22 @@ console.log("GAME_OVER")
 
 
   </div>
-      </WalletModalProvider>
-    </WalletProvider>
+
 
 </>
   )
 }
 
 /*
+<WalletProvider
+      wallets={wallets}
+      decryptPermission={DecryptPermission.UponRequest}
+      network={WalletAdapterNetwork.Localnet}
+      autoConnect
+    >
+      <WalletModalProvider>
+            </WalletModalProvider>
+    </WalletProvider>
 <div className="w-full h-full">
 <div></div>
 </div>
